@@ -1,0 +1,27 @@
+{
+  "name": "frizlo-warm-kitchen-theme",
+  "displayName": "Frizlo Warm Kitchen",
+  "description": "A warm charcoal VS Code dark theme, taken from the Frizlo app palette.",
+  "version": "1.0.0",
+  "publisher": "local",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.33.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NLykoskoufis/frizlo-warm-kitchen-theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Frizlo Warm Kitchen",
+        "uiTheme": "vs-dark",
+        "path": "./themes/frizlo-warm-kitchen-color-theme.json"
+      }
+    ]
+  }
+}
