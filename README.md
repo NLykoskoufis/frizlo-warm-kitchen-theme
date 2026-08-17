@@ -8,6 +8,7 @@ appliance tints it uses for pantry, fridge, freezer and wine storage. The
 app's expiry states (fresh, soon, urgent, expired) become the editor's
 diagnostics, git gutter and terminal colours.
 
+
 You can see the app at **[frizlo.app](https://frizlo.app)**.
 
 ## Screenshots
